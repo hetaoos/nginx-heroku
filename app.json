@@ -1,0 +1,8 @@
+{
+    "name": "nginx-heroku",
+    "description": "Deploy nginx on Heroku.",
+    "keywords": ["nginx"],
+    "website": "https://github.com/hetaoos/nginx-heroku",
+    "repository": "https://github.com/hetaoos/nginx-heroku",
+    "stack": "container"
+}
